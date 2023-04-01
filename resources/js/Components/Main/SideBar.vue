@@ -15,7 +15,7 @@
                 target="_blank"
             >
                 <img
-                    src="/public/assets/img/logo-ct-dark.png"
+                    src="../../../../public/assets/img/logo-ct-dark.png"
                     class="navbar-brand-img h-100"
                     alt="main_logo"
                 />
@@ -51,7 +51,7 @@
                             <li class="nav-item">
                                 <a
                                     class="nav-link"
-                                    href="public/pages/dashboards/landing.html"
+                                    href="../../../../public/pages/dashboards/landing.html"
                                 >
                                     <span class="sidenav-mini-icon"> L </span>
                                     <span class="sidenav-normal">
@@ -62,7 +62,7 @@
                             <li class="nav-item active">
                                 <a
                                     class="nav-link active"
-                                    href="public/pages/dashboards/default.html"
+                                    href="../../../../public/pages/dashboards/default.html"
                                 >
                                     <span class="sidenav-mini-icon"> D </span>
                                     <span class="sidenav-normal">
@@ -73,7 +73,7 @@
                             <li class="nav-item">
                                 <a
                                     class="nav-link"
-                                    href="public/pages/dashboards/automotive.html"
+                                    href="../../../../public/pages/dashboards/automotive.html"
                                 >
                                     <span class="sidenav-mini-icon"> A </span>
                                     <span class="sidenav-normal">
@@ -84,7 +84,7 @@
                             <li class="nav-item">
                                 <a
                                     class="nav-link"
-                                    href="public/pages/dashboards/smart-home.html"
+                                    href="../../../../public/pages/dashboards/smart-home.html"
                                 >
                                     <span class="sidenav-mini-icon"> S </span>
                                     <span class="sidenav-normal">
@@ -109,7 +109,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/dashboards/vr/vr-default.html"
+                                                href="../../../../public/pages/dashboards/vr/vr-default.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -124,7 +124,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/dashboards/vr/vr-info.html"
+                                                href="../../../../public/pages/dashboards/vr/vr-info.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -142,7 +142,7 @@
                             <li class="nav-item">
                                 <a
                                     class="nav-link"
-                                    href="public/pages/dashboards/crm.html"
+                                    href="../../../../public/pages/dashboards/crm.html"
                                 >
                                     <span class="sidenav-mini-icon"> C </span>
                                     <span class="sidenav-normal"> CRM </span>
@@ -195,7 +195,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/pages/profile/overview.html"
+                                                href="../../../../public/pages/pages/profile/overview.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -210,7 +210,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/pages/profile/teams.html"
+                                                href="../../../../public/pages/pages/profile/teams.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -225,7 +225,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/pages/profile/projects.html"
+                                                href="../../../../public/pages/pages/profile/projects.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -257,7 +257,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/pages/users/reports.html"
+                                                href="../../../../public/pages/pages/users/reports.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -272,7 +272,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/pages/users/new-user.html"
+                                                href="../../../../public/pages/pages/users/new-user.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -304,7 +304,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/pages/account/settings.html"
+                                                href="../../../../public/pages/pages/account/settings.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -319,7 +319,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/pages/account/billing.html"
+                                                href="../../../../public/pages/pages/account/billing.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -334,7 +334,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/pages/account/invoice.html"
+                                                href="../../../../public/pages/pages/account/invoice.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -349,7 +349,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/pages/account/security.html"
+                                                href="../../../../public/pages/pages/account/security.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -381,7 +381,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/pages/projects/general.html"
+                                                href="../../../../public/pages/pages/projects/general.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -396,7 +396,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/pages/projects/timeline.html"
+                                                href="../../../../public/pages/pages/projects/timeline.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -411,7 +411,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/pages/projects/new-project.html"
+                                                href="../../../../public/pages/pages/projects/new-project.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -429,7 +429,7 @@
                             <li class="nav-item">
                                 <a
                                     class="nav-link"
-                                    href="public/pages/pages/pricing-page.html"
+                                    href="../../../../public/pages/pages/pricing-page.html"
                                 >
                                     <span class="sidenav-mini-icon"> P </span>
                                     <span class="sidenav-normal">
@@ -440,7 +440,7 @@
                             <li class="nav-item">
                                 <a
                                     class="nav-link"
-                                    href="public/pages/pages/rtl-page.html"
+                                    href="../../../../public/pages/pages/rtl-page.html"
                                 >
                                     <span class="sidenav-mini-icon"> R </span>
                                     <span class="sidenav-normal"> RTL </span>
@@ -449,7 +449,7 @@
                             <li class="nav-item">
                                 <a
                                     class="nav-link"
-                                    href="public/pages/pages/widgets.html"
+                                    href="../../../../public/pages/pages/widgets.html"
                                 >
                                     <span class="sidenav-mini-icon"> W </span>
                                     <span class="sidenav-normal">
@@ -460,7 +460,7 @@
                             <li class="nav-item">
                                 <a
                                     class="nav-link"
-                                    href="public/pages/pages/charts.html"
+                                    href="../../../../public/pages/pages/charts.html"
                                 >
                                     <span class="sidenav-mini-icon"> C </span>
                                     <span class="sidenav-normal"> Charts </span>
@@ -469,7 +469,7 @@
                             <li class="nav-item">
                                 <a
                                     class="nav-link"
-                                    href="public/pages/pages/sweet-alerts.html"
+                                    href="../../../../public/pages/pages/sweet-alerts.html"
                                 >
                                     <span class="sidenav-mini-icon"> S </span>
                                     <span class="sidenav-normal">
@@ -480,7 +480,7 @@
                             <li class="nav-item">
                                 <a
                                     class="nav-link"
-                                    href="public/pages/pages/notifications.html"
+                                    href="../../../../public/pages/pages/notifications.html"
                                 >
                                     <span class="sidenav-mini-icon"> N </span>
                                     <span class="sidenav-normal">
@@ -491,7 +491,7 @@
                             <li class="nav-item">
                                 <a
                                     class="nav-link"
-                                    href="public/pages/pages/chat.html"
+                                    href="../../../../public/pages/pages/chat.html"
                                 >
                                     <span class="sidenav-mini-icon"> C </span>
                                     <span class="sidenav-normal"> Chat </span>
@@ -523,7 +523,7 @@
                             <li class="nav-item">
                                 <a
                                     class="nav-link"
-                                    href="public/pages/applications/kanban.html"
+                                    href="../../../../public/pages/applications/kanban.html"
                                 >
                                     <span class="sidenav-mini-icon"> K </span>
                                     <span class="sidenav-normal"> Kanban </span>
@@ -532,7 +532,7 @@
                             <li class="nav-item">
                                 <a
                                     class="nav-link"
-                                    href="public/pages/applications/wizard.html"
+                                    href="../../../../public/pages/applications/wizard.html"
                                 >
                                     <span class="sidenav-mini-icon"> W </span>
                                     <span class="sidenav-normal"> Wizard </span>
@@ -541,7 +541,7 @@
                             <li class="nav-item">
                                 <a
                                     class="nav-link"
-                                    href="public/pages/applications/datatables.html"
+                                    href="../../../../public/pages/applications/datatables.html"
                                 >
                                     <span class="sidenav-mini-icon"> D </span>
                                     <span class="sidenav-normal">
@@ -552,7 +552,7 @@
                             <li class="nav-item">
                                 <a
                                     class="nav-link"
-                                    href="public/pages/applications/calendar.html"
+                                    href="../../../../public/pages/applications/calendar.html"
                                 >
                                     <span class="sidenav-mini-icon"> C </span>
                                     <span class="sidenav-normal">
@@ -563,7 +563,7 @@
                             <li class="nav-item">
                                 <a
                                     class="nav-link"
-                                    href="public/pages/applications/analytics.html"
+                                    href="../../../../public/pages/applications/analytics.html"
                                 >
                                     <span class="sidenav-mini-icon"> A </span>
                                     <span class="sidenav-normal">
@@ -597,7 +597,7 @@
                             <li class="nav-item">
                                 <a
                                     class="nav-link"
-                                    href="public/pages/ecommerce/overview.html"
+                                    href="../../../../public/pages/ecommerce/overview.html"
                                 >
                                     <span class="sidenav-mini-icon"> O </span>
                                     <span class="sidenav-normal">
@@ -622,7 +622,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/ecommerce/products/new-product.html"
+                                                href="../../../../public/pages/ecommerce/products/new-product.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -637,7 +637,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/ecommerce/products/edit-product.html"
+                                                href="../../../../public/pages/ecommerce/products/edit-product.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -652,7 +652,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/ecommerce/products/product-page.html"
+                                                href="../../../../public/pages/ecommerce/products/product-page.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -667,7 +667,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/ecommerce/products/products-list.html"
+                                                href="../../../../public/pages/ecommerce/products/products-list.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -699,7 +699,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/ecommerce/orders/list.html"
+                                                href="../../../../public/pages/ecommerce/orders/list.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -714,7 +714,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/ecommerce/orders/details.html"
+                                                href="../../../../public/pages/ecommerce/orders/details.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -732,7 +732,7 @@
                             <li class="nav-item">
                                 <a
                                     class="nav-link"
-                                    href="public/pages/ecommerce/referral.html"
+                                    href="../../../../public/pages/ecommerce/referral.html"
                                 >
                                     <span class="sidenav-mini-icon"> R </span>
                                     <span class="sidenav-normal">
@@ -780,7 +780,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/authentication/signin/basic.html"
+                                                href="../../../../public/pages/authentication/signin/basic.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -795,7 +795,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/authentication/signin/cover.html"
+                                                href="../../../../public/pages/authentication/signin/cover.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -810,7 +810,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/authentication/signin/illustration.html"
+                                                href="../../../../public/pages/authentication/signin/illustration.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -842,7 +842,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/authentication/signup/basic.html"
+                                                href="../../../../public/pages/authentication/signup/basic.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -857,7 +857,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/authentication/signup/cover.html"
+                                                href="../../../../public/pages/authentication/signup/cover.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -872,7 +872,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/authentication/signup/illustration.html"
+                                                href="../../../../public/pages/authentication/signup/illustration.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -904,7 +904,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/authentication/reset/basic.html"
+                                                href="../../../../public/pages/authentication/reset/basic.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -919,7 +919,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/authentication/reset/cover.html"
+                                                href="../../../../public/pages/authentication/reset/cover.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -934,7 +934,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/authentication/reset/illustration.html"
+                                                href="../../../../public/pages/authentication/reset/illustration.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -966,7 +966,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/authentication/lock/basic.html"
+                                                href="../../../../public/pages/authentication/lock/basic.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -981,7 +981,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/authentication/lock/cover.html"
+                                                href="../../../../public/pages/authentication/lock/cover.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -996,7 +996,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/authentication/lock/illustration.html"
+                                                href="../../../../public/pages/authentication/lock/illustration.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -1028,7 +1028,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/authentication/verification/basic.html"
+                                                href="../../../../public/pages/authentication/verification/basic.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -1043,7 +1043,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/authentication/verification/cover.html"
+                                                href="../../../../public/pages/authentication/verification/cover.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -1058,7 +1058,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/authentication/verification/illustration.html"
+                                                href="../../../../public/pages/authentication/verification/illustration.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -1090,7 +1090,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/authentication/error/404.html"
+                                                href="../../../../public/pages/authentication/error/404.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -1105,7 +1105,7 @@
                                         <li class="nav-item">
                                             <a
                                                 class="nav-link"
-                                                href="public/pages/authentication/error/500.html"
+                                                href="../../../../public/pages/authentication/error/500.html"
                                             >
                                                 <span
                                                     class="sidenav-mini-icon text-xs"
@@ -1546,7 +1546,7 @@
             <div class="card card-plain shadow-none" id="sidenavCard">
                 <img
                     class="w-60 mx-auto"
-                    src="public/assets/img/illustrations/icon-documentation.svg"
+                    src="../../../../public/assets/img/illustrations/icon-documentation.svg"
                     alt="sidebar_illustration"
                 />
                 <div class="card-body text-center p-3 w-100 pt-0">

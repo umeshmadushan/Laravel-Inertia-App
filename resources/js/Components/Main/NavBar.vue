@@ -58,7 +58,7 @@
                 <ul class="navbar-nav justify-content-end">
                     <li class="nav-item d-flex align-items-center">
                         <a
-                            href="public/pages/authentication/signin/illustration.html"
+                            href="../../pages/authentication/signin/illustration.html"
                             class="nav-link text-white font-weight-bold px-0"
                             target="_blank"
                         >
@@ -112,7 +112,7 @@
                                     <div class="d-flex py-1">
                                         <div class="my-auto">
                                             <img
-                                                src="public/assets/img/team-2.jpg"
+                                                src="../../../../public/assets/img/team-2.jpg"
                                                 class="avatar avatar-sm me-3"
                                                 alt="user image"
                                             />
@@ -146,7 +146,7 @@
                                     <div class="d-flex py-1">
                                         <div class="my-auto">
                                             <img
-                                                src="public/assets/img/small-logos/logo-spotify.svg"
+                                                src="../../../../public/assets/img/small-logos/logo-spotify.svg"
                                                 class="avatar avatar-sm bg-gradient-dark me-3"
                                                 alt="logo spotify"
                                             />
@@ -249,7 +249,6 @@
 </template>
 
 <script>
-
 export default {};
 </script>
 

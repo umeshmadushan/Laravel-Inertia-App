@@ -1,7 +1,6 @@
 <template>
 
     <div>
-        <NavBar />
         <SideBar/>
         <slot name="content"></slot>
     </div>
