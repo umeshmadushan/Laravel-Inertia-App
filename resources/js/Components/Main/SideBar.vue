@@ -15,7 +15,7 @@
                 target="_blank"
             >
                 <img
-                    src="public/assets/img/logo-ct-dark.png"
+                    src="/public/assets/img/logo-ct-dark.png"
                     class="navbar-brand-img h-100"
                     alt="main_logo"
                 />

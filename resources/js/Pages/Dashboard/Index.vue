@@ -205,7 +205,7 @@
                                     <div
                                         class="carousel-item h-100 active"
                                         style="
-                                            background-image: url('../../public/assets/img/img-2.jpg');
+                                            background-image: url('/public/assets/img/img-2.jpg');
                                             background-size: cover;
                                         "
                                     >
@@ -260,7 +260,7 @@
                                     <div
                                         class="carousel-item h-100"
                                         style="
-                                            background-image: url('public/assets/img/img-3.jpg');
+                                            background-image: url('/public/assets/img/img-3.jpg');
                                             background-size: cover;
                                         "
                                     >
@@ -374,7 +374,7 @@
                                                     <img
                                                         class="border-radius-lg"
                                                         alt="Image placeholder"
-                                                        src="public/assets/img/team-2.jpg"
+                                                        src="/public/assets/img/team-2.jpg"
                                                     />
                                                 </a>
                                             </div>
@@ -411,7 +411,7 @@
                                                     <img
                                                         class="border-radius-lg"
                                                         alt="Image placeholder"
-                                                        src="public/assets/img/team-5.jpg"
+                                                        src="/public/assets/img/team-5.jpg"
                                                     />
                                                 </a>
                                             </div>
@@ -448,7 +448,7 @@
                                                     <img
                                                         class="border-radius-lg"
                                                         alt="Image placeholder"
-                                                        src="public/assets/img/team-4.jpg"
+                                                        src="/public/assets/img/team-4.jpg"
                                                     />
                                                 </a>
                                             </div>
@@ -617,7 +617,7 @@
                                                 >
                                                     <img
                                                         alt="Image placeholder"
-                                                        src="public/assets/img/small-logos/logo-jira.svg"
+                                                        src="/public/assets/img/small-logos/logo-jira.svg"
                                                     />
                                                 </a>
                                             </div>
@@ -649,7 +649,7 @@
                                                 >
                                                     <img
                                                         alt="Image placeholder"
-                                                        src="public/assets/img/small-logos/logo-asana.svg"
+                                                        src="/public/assets/img/small-logos/logo-asana.svg"
                                                     />
                                                 </a>
                                             </div>
@@ -679,7 +679,7 @@
                                                 >
                                                     <img
                                                         alt="Image placeholder"
-                                                        src="public/assets/img/small-logos/logo-spotify.svg"
+                                                        src="/public/assets/img/small-logos/logo-spotify.svg"
                                                     />
                                                 </a>
                                             </div>
@@ -709,7 +709,7 @@
                                                 >
                                                     <img
                                                         alt="Image placeholder"
-                                                        src="public/assets/img/small-logos/bootstrap.svg"
+                                                        src="/public/assets/img/small-logos/bootstrap.svg"
                                                     />
                                                 </a>
                                             </div>
@@ -744,7 +744,7 @@
                                 <div class="d-flex align-items-center">
                                     <a href="javascript:;">
                                         <img
-                                            src="public/assets/img/team-4.jpg"
+                                            src="/public/assets/img/team-4.jpg"
                                             class="avatar"
                                             alt="profile-image"
                                         />
@@ -779,7 +779,7 @@
                                 </p>
                                 <img
                                     alt="Image placeholder"
-                                    src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro/assets/img/activity-feed.jpg"
+                                    src="https://raw.githubusercontent.com/creativetimofficial//public-assets/master/argon-dashboard-pro/assets/img/activity-feed.jpg"
                                     class="img-fluid border-radius-lg shadow-lg max-height-500"
                                 />
                                 <div
@@ -834,7 +834,7 @@
                                                 >
                                                     <img
                                                         alt="Image placeholder"
-                                                        src="public/assets/img/team-5.jpg"
+                                                        src="/public/assets/img/team-5.jpg"
                                                         class=""
                                                     />
                                                 </a>
@@ -846,7 +846,7 @@
                                                 >
                                                     <img
                                                         alt="Image placeholder"
-                                                        src="public/assets/img/team-2.jpg"
+                                                        src="/public/assets/img/team-2.jpg"
                                                         class="rounded-circle"
                                                     />
                                                 </a>
@@ -858,7 +858,7 @@
                                                 >
                                                     <img
                                                         alt="Image placeholder"
-                                                        src="public/assets/img/team-1.jpg"
+                                                        src="/public/assets/img/team-1.jpg"
                                                         class="rounded-circle"
                                                     />
                                                 </a>
@@ -877,7 +877,7 @@
                                             <img
                                                 alt="Image placeholder"
                                                 class="avatar rounded-circle"
-                                                src="public/assets/img/bruce-mars.jpg"
+                                                src="/public/assets/img/bruce-mars.jpg"
                                             />
                                         </div>
                                         <div class="flex-grow-1 ms-3">
@@ -916,7 +916,7 @@
                                             <img
                                                 alt="Image placeholder"
                                                 class="avatar rounded-circle"
-                                                src="public/assets/img/team-5.jpg"
+                                                src="/public/assets/img/team-5.jpg"
                                             />
                                         </div>
                                         <div class="flex-grow-1 ms-3">
@@ -956,7 +956,7 @@
                                             <img
                                                 alt="Image placeholder"
                                                 class="avatar rounded-circle me-3"
-                                                src="public/assets/img/team-4.jpg"
+                                                src="/public/assets/img/team-4.jpg"
                                             />
                                         </div>
                                         <div class="flex-grow-1 my-auto">
@@ -1552,7 +1552,7 @@
                                         >
                                             <div class="col">
                                                 <img
-                                                    src="public/assets/img/logos/bitcoin.jpg"
+                                                    src="/public/assets/img/logos/bitcoin.jpg"
                                                     class="w-30 border-radius-md"
                                                     alt="Image placeholder"
                                                 />
@@ -1647,7 +1647,7 @@
                                                     >
                                                         <div>
                                                             <img
-                                                                src="public/assets/img/icons/flags/US.png"
+                                                                src="/public/assets/img/icons/flags/US.png"
                                                                 alt="Country flag"
                                                             />
                                                         </div>
@@ -1719,7 +1719,7 @@
                                                     >
                                                         <div>
                                                             <img
-                                                                src="public/assets/img/icons/flags/DE.png"
+                                                                src="/public/assets/img/icons/flags/DE.png"
                                                                 alt="Country flag"
                                                             />
                                                         </div>
@@ -1791,7 +1791,7 @@
                                                     >
                                                         <div>
                                                             <img
-                                                                src="public/assets/img/icons/flags/GB.png"
+                                                                src="/public/assets/img/icons/flags/GB.png"
                                                                 alt="Country flag"
                                                             />
                                                         </div>
@@ -1863,7 +1863,7 @@
                                                     >
                                                         <div>
                                                             <img
-                                                                src="public/assets/img/icons/flags/BR.png"
+                                                                src="/public/assets/img/icons/flags/BR.png"
                                                                 alt="Country flag"
                                                             />
                                                         </div>
